@@ -13,7 +13,14 @@ This repository provides the processed CS-Drift dataset used in the experiments 
 For each split:
 
 - `*_x_cs.pkl`: processed model inputs
+
 - `*_y_cs.pkl`: corresponding labels
+
+  
+
+## Raw PCAP Files
+
+`CS_Drift_raw_pcap.zip` contains the raw PCAP files from which the processed CS-Drift dataset was constructed. IP addresses and port numbers have been anonymized, and all TLS payloads remain encrypted.
 
 ## Notes
 
